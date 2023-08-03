@@ -1,7 +1,7 @@
 import sys
 sys.stdin = open('input.txt')
 ##############################
-
+hahaha
 time, minute = map(int, input().split())
 cooktime = int(input())
 result = ((time * 60) + (minute + cooktime))
